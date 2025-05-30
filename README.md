@@ -17,7 +17,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Meah01&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Meah01&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/> ![Snake animation](https://github.com/Meah01/Meah01/blob/output/github-contribution-grid-snake.svg)
 ![](https://nirzak-streak-stats.vercel.app/?user=Meah01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meah01&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
