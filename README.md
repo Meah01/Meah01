@@ -31,17 +31,15 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meah01&show_icons=true&theme=minimal&hide_border=true&bg_color=ffffff&title_color=333&text_color=666&icon_color=333" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meah01&layout=compact&theme=minimal&hide_border=true&bg_color=ffffff&title_color=333&text_color=666" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meah01&show_icons=true&theme=dark&hide_border=true" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meah01&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meah01/Meah01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meah01/Meah01/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meah01/Meah01/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Meah01/Meah01/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
