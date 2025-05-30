@@ -1,9 +1,33 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+Researcher;Marketing+Analytics+Expert;CRM+%26+Business+Intelligence;Operations+Research+Enthusiast" alt="Typing SVG" />
+</div>
+
+<h1 align="center">👋 Hi, I'm Alexandru Constantinescu</h1>
+<h3 align="center">🔬 Data Scientist | 📊 Marketing Analytics Researcher | ☁️ CRM Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meah01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Meah01?label=Followers&style=social" alt="followers" />
+</p>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-constantinescu-6a18b6117) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]((https://tasteful-motion-cd2.notion.site/Personal-Portfolio-1a406ad0ff588011968af249d03977aa))
 [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)]((https://public.tableau.com/app/profile/alexandru.constantinescu/vizzes))
 [![Salesforce](https://img.shields.io/badge/Salesforce-%2300D4FF.svg?style=for-the-badge&logo=salesforce&logoColor=white)]((https://www.salesforce.com/trailblazer/t4crg37sruwolpvswk))
+
+## 🎯 About Me
+
+- 🔬 Currently working on **Marketing Campaign Optimization using MINLP and XGBoost**
+- 🎓 **Bachelor's Student** at IU International University of Applied Sciences
+- 📊 **Research Focus**: Marketing Mix Modeling, Operations Research, Data Science
+- ☁️ **CRM Ace**: Salesforce, Dynamics 365, HubSpot development and analytics
+- 📈 **Data Visualization**: Creating insights through Tableau and Python
+- 💼 **Thesis**: *"Optimizing Marketing Campaigns Using Machine Learning"*
+
+---
 
 # 💻 Tech Stack:
 
@@ -15,6 +39,26 @@
 
 ## 🎨 Design & Productivity:
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 🏆 Featured Project
+
+### 🎯 [Marketing Campaign Optimization: MINLP and XGBoost](https://github.com/Meah01/marketing-campaign-optimization-minlp-xgboost)
+*Bachelor thesis implementation combining MINLP optimization with XGBoost machine learning*
+
+**🚀 Key Achievements:**
+- 📈 **13-25% performance improvement** over Linear Programming
+- 🎯 **R² up to 0.94** prediction accuracy
+- ⚡ **Fast solving times** (0.06-0.07s average)
+- 🔬 **First integrated MINLP-XGBoost system** for marketing
+
+**🔬 Research Impact:**
+- Addresses critical gaps in Marketing Mix Modeling literature
+- Integrates prescriptive and predictive analytics
+- Provides practical framework for marketing practitioners
+
+---
 
 # 📊 GitHub Stats:
 
