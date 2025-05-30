@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey, I'm Alex</h1>
-  <p><em>Data Scientist • Marketing Analytics • CRM Developer</em></p>
+  <p><em>Data Science • Marketing & Marketing Analytics • CRM </em></p>
 </div>
 
 ---
@@ -18,7 +18,7 @@
 
 ## Tech
 **Data & Analytics:** Python • Tableau • MySQL • Pandas • NumPy • Scikit-learn • TensorFlow  
-**CRM:** Salesforce • Apex • SOQL • Dynamics 365 • HubSpot  
+**CRM:** Salesforce • Apex • SOQL • SOSL • Dynamics 365 • HubSpot  
 **Tools:** Figma • Notion • Adobe Creative Suite
 
 ## Featured Work
