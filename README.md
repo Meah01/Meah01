@@ -12,9 +12,10 @@
 [![Salesforce](https://img.shields.io/badge/Salesforce-00D4FF?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/t4crg37sruwolpvswk)
 
 ## Currently
-- 🎓 Bachelor's at IU International University
-- 🔬 Research: Marketing Campaign Optimization (MINLP + XGBoost)
+- 🎓 Bachelor's at IU International University -> Master's at Vrije Universiteit (VU) Amsterdam 
+- 🔬 Thesis: Marketing Campaign Optimization (MINLP + XGBoost)
 - 📊 Focus: Marketing Mix Modeling, Operations Research, Data Science
+- 🚧 Currently working on: Attribution Modelling in Salesforce (Bunq Case Study); My portfolio website
 
 ## Tech
 **Data & Analytics:** Python • Tableau • MySQL • Pandas • NumPy • Scikit-learn • TensorFlow  
