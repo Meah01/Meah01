@@ -22,11 +22,18 @@
 **Tools:** Figma • Notion • Adobe Creative Suite
 
 ## Featured Work
+**[App Store Ecommerce Competitive Platform & Dashboard](https://github.com/Meah01/google-play-absa-and-servqual-llm-pipeline)**
+*Google Play Scrapper + NLP + LLM for measuring SERVQUAL for competitive intelligence for ecommerce apps*
+- Collects and processes 1000+ reviews per day
+- Using the Mistral 7B LLM + prompt engineering, an increase of 60% in SERVQUAL accuracy was achieved when compared to BERT 
+- Provides in-depth dashboards, insigths and comparisons about the customer pain points across 5 major ecommerce apps (Amazon, Etsy, Shein, Temu, eBay) using RoBERTa
+
+
 **[Marketing Campaign Optimization](https://github.com/Meah01/marketing-campaign-optimization-minlp-xgboost)**  
 *MINLP + XGBoost integration for digital marketing campaigns*
 - 13-25% performance improvement over traditional methods
 - R² up to 0.94 prediction accuracy
-- First integrated system in Marketing Mix Modeling literature
+- First integrated system using MINLP and XGBoost for Marketing Mix Modeling purposes in the research literature
 
 ---
 
