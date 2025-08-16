@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-constantinescu-6a18b6117) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://tasteful-motion-cd2.notion.site/Personal-Portfolio-1a406ad0ff588011968af249d03977aa)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/alexandru.constantinescu/vizzes)
-[![Salesforce](https://img.shields.io/badge/Salesforce-00D4FF?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/t4crg37sruwolpvswk)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00D4FF?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/alexandru-constantinescu)
 
 ## Currently
 - 🎓 Bachelor's at IU International University -> Master's at Vrije Universiteit (VU) Amsterdam 
