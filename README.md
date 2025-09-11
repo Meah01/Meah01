@@ -15,7 +15,7 @@
 - 🎓 Bachelor's at IU International University -> Master's at Vrije Universiteit (VU) Amsterdam 
 - 🔬 Thesis: Marketing Campaign Optimization (MINLP + XGBoost)
 - 📊 Focus: Marketing Mix Modeling, Operations Research, Data Science
-- 🚧 Currently working on: Attribution Modelling in Salesforce (Bunq Case Study); My portfolio website
+- 🚧 Currently working on: Attribution Modelling in Salesforce (Bunq Case Study); [My portfolio website](https://alex-constantinescu.netlify.app/)
 
 ## Tech
 **Data & Analytics:** Python • Tableau • MySQL • Pandas • NumPy • Scikit-learn • TensorFlow  
