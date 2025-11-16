@@ -1,13 +1,13 @@
 <div align="center">
   <h1>👋 Hey, I'm Alex</h1>
-  <p><em>Data Science • Marketing & Marketing Analytics • CRM </em></p>
+  <p><em> Marketing & Marketing Analytics • Data Science • CRM </em></p>
 </div>
 
 ---
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-constantinescu-6a18b6117) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://tasteful-motion-cd2.notion.site/Personal-Portfolio-1a406ad0ff588011968af249d03977aa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://alex-constantinescu.netlify.app/?utm_source=github&utm_medium=referral&utm_campaign=github_profile_2025&utm_term=Github&utm_content=profile_link)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/alexandru.constantinescu/vizzes)
 [![Salesforce](https://img.shields.io/badge/Salesforce-00D4FF?style=flat&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/alexandru-constantinescu)
 
@@ -30,11 +30,17 @@
 - Provides in-depth dashboards, insigths and comparisons about the customer pain points across 5 major ecommerce apps (Amazon, Etsy, Shein, Temu, eBay) using RoBERTa
 
 
-**[Marketing Campaign Optimization](https://github.com/Meah01/marketing-campaign-optimization-minlp-xgboost)**  
+**[Marketing Campaign Optimization Tool](https://github.com/Meah01/marketing-campaign-optimization-minlp-xgboost)**  
 *MINLP + XGBoost integration for digital marketing campaigns*
 - 13-25% performance improvement over traditional methods
 - R² up to 0.94 prediction accuracy
 - First integrated system using MINLP and XGBoost for Marketing Mix Modeling purposes in the research literature
+
+**[Marketing Segmentation Analysis & Cluster Targeting Strategy](https://alex-constantinescu.netlify.app/portfolio/customer-segmentation-analysis-from-statistical-models-to-marketing-strategy/)**  
+*Comparison of K-Means and AGNES for Consumer Segmentation & Targeting Strategies*
+- Compared K-means and AGNES with the goal of choosing the one who fits the business use case aims
+- Identified 5 distinct consumer clusters for a Japannesse retailer
+- Analyzed their purchasing behavior + provided in-depth recommendations rooted in Consumer Behavior research to target them
 
 ---
 
